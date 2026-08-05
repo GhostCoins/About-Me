@@ -6,3 +6,6 @@
       ▸  js
       ▸  english
       
+![JavaScript](https://shields.io)
+![Git](https://shields.io)
+
